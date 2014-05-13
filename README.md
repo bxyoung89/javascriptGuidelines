@@ -19,23 +19,8 @@ I forget where I heard it or the exact phrasing but I remember JSON Discoverer, 
 
 ## General
 
-  - Use tabs.
+#### Use tabs.
 
-    ```javascript
-    // bad
-    function() {
-    ∙∙∙∙var name;
-    }
-
-    // bad
-    function() {
-    ∙var name;
-    }
-
-    // good
-    function() {
-    ∙∙var name;
-    }
-    ```
+  Tabs are the best way to accomidate a large number of developers and languages.  A lot of people have a lot of opinions on how whitespace should work out (tab, 2 spaces, 4 spaces, etc...).  Tabs offer the most flexibility because any good IDE will let you set how they are displayed (2 spaces, 4 spaces, 10 spaces, etc...).  If you use spaces, you're stuck.
 
 **[⬆ back to top](#table-of-contents)**
